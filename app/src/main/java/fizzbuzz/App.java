@@ -3,7 +3,7 @@ package fizzbuzz;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-
+// プルリクエストのテスト用
 public class App {
 
     private final static int MAX = 100;
